@@ -1,7 +1,0 @@
-streamlit
-opencv-python
-Pillow
-numpy
-streamlit-webrtc
-matplotlib
-tk
